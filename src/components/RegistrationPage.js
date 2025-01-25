@@ -2,7 +2,7 @@ import Header from "./Header";
 import Footer from "./Footer";
 
 import { HandySvg } from "handy-svg";
-import right_arrow_icon from "../img/right_arrow.svg";
+import right_arrow_icon from "../styles/img/right_arrow.svg";
 
 function RegistrationPage() {
   return (

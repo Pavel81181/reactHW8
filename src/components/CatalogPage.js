@@ -4,10 +4,10 @@ import Header from "./Header";
 import Footer from "./Footer";
 import ProductItem from "./ProductItem";
 
-import { ReactComponent as FilterIcon } from "../img/filter_icon.svg";
+import { ReactComponent as FilterIcon } from "../styles/img/filter_icon.svg";
 
 import { HandySvg } from "handy-svg";
-import drop_down_arrow from "../img/drop-down_arrow.svg";
+import drop_down_arrow from "../styles/img/drop-down_arrow.svg";
 
 import products from "./productsData"; 
 

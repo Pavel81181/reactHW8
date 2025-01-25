@@ -5,7 +5,7 @@ import Footer from "./Footer";
 import { CartContext } from "../contexts/CartContext";
 import products from "./productsData"; 
 
-import { ReactComponent as CloseIcon } from "../img/close_icon.svg";
+import { ReactComponent as CloseIcon } from "../styles/img/close_icon.svg";
 
 const CartPage = () => {
   

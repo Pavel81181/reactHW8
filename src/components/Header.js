@@ -4,11 +4,11 @@ import { Link } from "react-router-dom";
 import { CartContext } from "../contexts/CartContext";
 
 import {HandySvg} from 'handy-svg';
-import header_logo from "../img/header_logo.svg";
-import search_icon from "../img/search_icon.svg";
-import { ReactComponent as МenuIcon } from "../img/menu_icon.svg";
-import { ReactComponent as UserIcon } from "../img/user_icon.svg";
-import { ReactComponent as CartIcon } from '../img/cart_icon.svg';
+import header_logo from "../styles/img/header_logo.svg";
+import search_icon from "../styles/img/search_icon.svg";
+import { ReactComponent as МenuIcon } from "../styles/img/menu_icon.svg";
+import { ReactComponent as UserIcon } from "../styles/img/user_icon.svg";
+import { ReactComponent as CartIcon } from '../styles/img/cart_icon.svg';
 
 function Header() {
     

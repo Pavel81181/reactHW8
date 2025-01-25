@@ -4,14 +4,14 @@ import Header from "./Header";
 import Footer from "./Footer";
 import ProductItem from "./ProductItem";
 
-import top_brand_img from "../img/top_brand_img.png";
+import top_brand_img from "../styles/img/top_brand_img.png";
 
 import { HandySvg } from "handy-svg";
-import top_brand_title from "../img/top_brand_title.svg";
+import top_brand_title from "../styles/img/top_brand_title.svg";
 
-import { ReactComponent as FeatureDeliveryIcon } from "../img/feature_icon1.svg";
-import { ReactComponent as FeatureDiscountIcon } from "../img/feature_icon2.svg";
-import { ReactComponent as FeatureQualityIcon } from "../img/feature_icon3.svg";
+import { ReactComponent as FeatureDeliveryIcon } from "../styles/img/feature_icon1.svg";
+import { ReactComponent as FeatureDiscountIcon } from "../styles/img/feature_icon2.svg";
+import { ReactComponent as FeatureQualityIcon } from "../styles/img/feature_icon3.svg";
 
 import products from "./productsData"; 
 

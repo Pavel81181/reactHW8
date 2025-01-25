@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 
 import { HandySvg } from "handy-svg";
-import add_to_cart_btn from "../img/add_to_cart_btn.svg";
+import add_to_cart_btn from "../styles/img/add_to_cart_btn.svg";
 
 import { CartContext } from "../contexts/CartContext"; 
 

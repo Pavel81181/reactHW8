@@ -1,10 +1,10 @@
 import React from 'react';
 
-import creator from "../img/creator.png";
+import creator from "../styles/img/creator.png";
 
 import {HandySvg} from 'handy-svg';
-import social_net_link1 from "../img/social_net_link1.svg";
-import social_net_link2 from "../img/social_net_link2.svg";
+import social_net_link1 from "../styles/img/social_net_link1.svg";
+import social_net_link2 from "../styles/img/social_net_link2.svg";
 
 function Footer() {
     return ( 
